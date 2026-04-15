@@ -12,12 +12,14 @@
 ![](https://streak-stats.demolab.com/?user=asqirizky&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=asqirizky&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=asqirizky&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ### Play With Me:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asqirizky/asqirizky/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asqirizky/asqirizky/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/asqirizky/asqirizky/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+[![](https://komarev.com/ghpvc/?username=asqirizky&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
